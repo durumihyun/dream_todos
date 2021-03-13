@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/dream_todos/static/css/main.767288e4.chunk.css",
+    "main.js": "/dream_todos/static/js/main.ad16dddc.chunk.js",
+    "main.js.map": "/dream_todos/static/js/main.ad16dddc.chunk.js.map",
+    "runtime-main.js": "/dream_todos/static/js/runtime-main.1e755439.js",
+    "runtime-main.js.map": "/dream_todos/static/js/runtime-main.1e755439.js.map",
+    "static/js/2.b1cc4e00.chunk.js": "/dream_todos/static/js/2.b1cc4e00.chunk.js",
+    "static/js/2.b1cc4e00.chunk.js.map": "/dream_todos/static/js/2.b1cc4e00.chunk.js.map",
+    "index.html": "/dream_todos/index.html",
+    "static/css/main.767288e4.chunk.css.map": "/dream_todos/static/css/main.767288e4.chunk.css.map",
+    "static/js/2.b1cc4e00.chunk.js.LICENSE.txt": "/dream_todos/static/js/2.b1cc4e00.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e755439.js",
+    "static/js/2.b1cc4e00.chunk.js",
+    "static/css/main.767288e4.chunk.css",
+    "static/js/main.ad16dddc.chunk.js"
+  ]
+}
